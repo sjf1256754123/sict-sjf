@@ -1,5 +1,0 @@
-webpackJsonp(
-    [
-    "NHnr"
-    ]
-    )
